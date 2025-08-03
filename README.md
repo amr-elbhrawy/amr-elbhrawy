@@ -41,11 +41,11 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrelbahrawy&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amr-elbhrawy&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrelbahrawy&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elbhrawy&theme=radical" />
 </p>
 
 <p align="center">
