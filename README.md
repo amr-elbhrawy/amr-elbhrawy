@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrelbahrawy&theme=gruvbox&margin-w=5&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amr-elbhrawy&theme=gruvbox&margin-w=5&no-frame=true" />
 </p>
 
 ---
