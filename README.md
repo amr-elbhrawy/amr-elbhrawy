@@ -1,5 +1,3 @@
- 
-
 <h1 align="center">Hi there 👋, I'm Amr Elbahrawy</h1>
 <h3 align="center">Frontend Developer | React & TypeScript | Clean Code Enthusiast</h3>
 
@@ -32,6 +30,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+<h2 align="center">📊 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elbhrawy&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ---
