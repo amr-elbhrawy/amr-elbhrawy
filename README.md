@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://chat.openai.com/c/file-000000008b80620ab7cc3d664adce027" width="180" />
-</p>
+ 
 
 <h1 align="center">Hi there 👋, I'm Amr Elbahrawy</h1>
 <h3 align="center">Frontend Developer | React & TypeScript | Clean Code Enthusiast</h3>
